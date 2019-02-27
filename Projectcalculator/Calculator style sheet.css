@@ -1,0 +1,46 @@
+﻿body {
+    font-family: ARial,Helvetica;
+    font-size: 85%;
+    width: 550px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: white;
+    border: 2px solid;
+}
+
+h1{
+     font-size :140%;
+     padding :0;
+     margin-bottom:.5em;
+}
+
+label {
+    float :left;
+    width :10em;
+}
+/* the style for classes*/
+
+.validator{
+
+    font-size:95%;
+    color:red;
+    margin-left :1em;
+
+}
+
+.button {
+    margin-top :1 em;
+    width :10em;
+
+
+}
+/* the style for the server controls*/
+.txtlength, .txtwidth, txtProcessorName, txtArea {
+    margin-left: 1em;
+    margin-bottom: .5em;
+    width: 10em;
+}
+#btnClear {
+    margin-left: 1em;
+}
+
